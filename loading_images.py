@@ -16,3 +16,5 @@ cv2.destroyAllWindows()
 # plt.plot([20, 30, 40], [10, 20, 30], 'c', linewidth=5)
 # plt.show()
 
+# save file manipulated file
+# cv2.imwrite('new_image.jpg', image)
